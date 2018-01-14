@@ -13,6 +13,7 @@ group :development do
 	gem 'shotgun'
 	gem 'pry'
   gem 'sqlite3'
+  gem 'tux'
 end
 
 group :test do
